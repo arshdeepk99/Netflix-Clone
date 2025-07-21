@@ -1,38 +1,39 @@
 # 🎬 Netflix Clone
 
-A fully responsive **Netflix clone** built using HTML, CSS, JavaScript . It mimics the basic UI and functionality of Netflix including movie thumbnails, hover effects, responsive design, and streaming layout.
+A responsive and visually appealing **Netflix homepage clone** built using **HTML, CSS, and JavaScript**. This project replicates the look and feel of the Netflix landing page including the header, featured section, and movie thumbnails.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- HTML5 / CSS3
-- JavaScript (Vanilla JS or React)
-- Java (Optional for backend)
-- Spring Boot / REST API (if dynamic content used)
-- TMDB API (for real movie data, optional)
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (Vanilla JS)
 
 ---
 
 ## 📸 Screenshots
 
-| Home Page | Hover Effect | Responsive View |
-|-----------|--------------|------------------|
-| ![Home](./assets/home.png) | ![Hover](./assets/hover.png) | ![Mobile](./assets/mobile.png) |
+### 💻 Desktop View
+"E:\assets\desktop.png"
+
+### 📱 Mobile View
+"E:\assets\home.png"
 
 ---
 
-## 🚀 Features
+## 💡 Features
 
-- ✅ Netflix-style homepage layout
-- ✅ Horizontal scrolling movie lists
-- ✅ Hover effect with info pop-up
-- ✅ Responsive design (mobile/tablet/desktop)
-- ✅ Dynamic content using JS (or TMDB API)
-- 🔒 Optional: User login (if backend used)
-- 🎥 Trailer preview on click (optional feature)
+- ✅ Netflix-style dark theme UI
+- ✅ Top banner with background image
+- ✅ Movie/series row thumbnails
+- ✅ Hover effects on movie cards
+- ✅ Responsive design for all screen sizes
+- ✅ Sticky navigation bar
 
 ---
 
-## 📂 Project Structure
+
+
+
 
